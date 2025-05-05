@@ -1,0 +1,7644 @@
+Array
+(
+    [ID] => 169
+    [resourceId] => 6
+    [hash] => 00:00:00:00:00
+    [partname] => LGT-HWZ-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 490.8
+    [armor] => 22
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 810
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 1
+            [range] => 1092.5
+            [lifetime] => 120
+            [firerate] => 10
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 74.4
+            [bulletsperclip] => 41
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 100
+            [spreadX] => 1.5
+            [spreadY] => 0.75
+            [kickforce] => 361.8
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.004305555
+    [defenseRating] => 0.01107165
+    [scoutRating] => 0.001596322
+    [commanderRating] => 0.0212843
+    [sniperRating] => 0.0002435418
+    [supportRating] => 0.1461317
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 170
+    [resourceId] => 6
+    [hash] => 00:00:00:00:01
+    [partname] => LGT-HWZ-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 531.7
+    [armor] => 22
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 794
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 2
+            [range] => 760
+            [lifetime] => 120
+            [firerate] => 3.2
+            [burstfirerate] => 0.1
+            [force] => 100.2
+            [damage] => 32.55
+            [bulletsperclip] => 107
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 80
+            [spreadX] => 3.75
+            [spreadY] => 1.875
+            [kickforce] => 271.35
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.00600512
+    [defenseRating] => 0.01170872
+    [scoutRating] => 0.002226451
+    [commanderRating] => 0.02968601
+    [sniperRating] => 6.49181E-5
+    [supportRating] => 0.1496572
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 171
+    [resourceId] => 6
+    [hash] => 00:00:00:00:02
+    [partname] => LGT-Z-HWZ
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 409
+    [armor] => 22
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 648
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 3
+            [range] => 950
+            [lifetime] => 120
+            [firerate] => 8
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 46.5
+            [bulletsperclip] => 58
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 80
+            [spreadX] => 1.5
+            [spreadY] => 0.75
+            [kickforce] => 201
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.004204643
+    [defenseRating] => 0.009797504
+    [scoutRating] => 0.001558908
+    [commanderRating] => 0.02078544
+    [sniperRating] => 0.0001497034
+    [supportRating] => 0.1286399
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 172
+    [resourceId] => 6
+    [hash] => 00:00:00:00:03
+    [partname] => LGT-X-HWZ
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 429
+    [armor] => 22
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 729
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 4
+            [range] => 1330
+            [lifetime] => 120
+            [firerate] => 6.8
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 53.475
+            [bulletsperclip] => 52
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 116
+            [spreadX] => 0.6
+            [spreadY] => 0.3
+            [kickforce] => 201
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.005056564
+    [defenseRating] => 0.01010904
+    [scoutRating] => 0.001874765
+    [commanderRating] => 0.02499687
+    [sniperRating] => 0.0002337675
+    [supportRating] => 0.1449959
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 173
+    [resourceId] => 6
+    [hash] => 00:01:00:00:01:00
+    [partname] => LGT-MINI-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 585
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 360
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 5
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.196
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.875
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3400529
+    [defenseRating] => 0.01923676
+    [scoutRating] => 0.3879311
+    [commanderRating] => 0.3879311
+    [sniperRating] => 0.0001416667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 174
+    [resourceId] => 6
+    [hash] => 00:01:00:00:01:01
+    [partname] => LGT-MINI-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 261
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 6
+            [range] => 357.5
+            [lifetime] => 15
+            [firerate] => 0.098
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.25
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.2
+            [spreadY] => 1.5
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.6253847
+    [defenseRating] => 0.006074766
+    [scoutRating] => 0.7134367
+    [commanderRating] => 0.7134365
+    [sniperRating] => 5.788096E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 175
+    [resourceId] => 6
+    [hash] => 00:01:00:00:01:02
+    [partname] => LGT-Z-MINI
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 180
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 7
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.14
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.25
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.8765808
+    [defenseRating] => 0.006074766
+    [scoutRating] => 1
+    [commanderRating] => 1
+    [sniperRating] => 5.771605E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 176
+    [resourceId] => 6
+    [hash] => 00:01:00:00:01:03
+    [partname] => LGT-X-MINI
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 487.5
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 300
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 8
+            [range] => 371.25
+            [lifetime] => 15
+            [firerate] => 0.14
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.5125
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 0.44
+            [spreadY] => 0.4
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3999022
+    [defenseRating] => 0.007593457
+    [scoutRating] => 0.4562069
+    [commanderRating] => 0.4562069
+    [sniperRating] => 0.0001502679
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 177
+    [resourceId] => 6
+    [hash] => 00:01:01:00:01:00
+    [partname] => LGT-MINI-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 585
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 414
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 9
+            [range] => 316.25
+            [lifetime] => 15
+            [firerate] => 0.2156
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.875
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.77
+            [spreadY] => 0.7
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2688165
+    [defenseRating] => 0.01923676
+    [scoutRating] => 0.3066649
+    [commanderRating] => 0.3066649
+    [sniperRating] => 0.0001629167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 178
+    [resourceId] => 6
+    [hash] => 00:01:01:00:01:01
+    [partname] => LGT-MINI-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 300
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 10
+            [range] => 411.125
+            [lifetime] => 15
+            [firerate] => 0.1078
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.25
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 1.54
+            [spreadY] => 1.05
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4946224
+    [defenseRating] => 0.006074766
+    [scoutRating] => 0.5642633
+    [commanderRating] => 0.5642636
+    [sniperRating] => 6.656311E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 179
+    [resourceId] => 6
+    [hash] => 00:01:01:00:01:02
+    [partname] => LGT-Z-MINI-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 207
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 11
+            [range] => 316.25
+            [lifetime] => 15
+            [firerate] => 0.154
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.25
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.77
+            [spreadY] => 0.7
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.6929492
+    [defenseRating] => 0.006074766
+    [scoutRating] => 0.7905139
+    [commanderRating] => 0.790514
+    [sniperRating] => 6.637347E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 180
+    [resourceId] => 6
+    [hash] => 00:01:01:00:01:03
+    [partname] => LGT-X-MINI-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 487.5
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 327
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 12
+            [range] => 426.9375
+            [lifetime] => 15
+            [firerate] => 0.154
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.5125
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.308
+            [spreadY] => 0.28
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3335298
+    [defenseRating] => 0.007593457
+    [scoutRating] => 0.3804895
+    [commanderRating] => 0.3804895
+    [sniperRating] => 0.0001728081
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 181
+    [resourceId] => 6
+    [hash] => 00:01:02:00:01:00
+    [partname] => LGT-MINI-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 585
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 414
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 13
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.2352
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.875
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2464151
+    [defenseRating] => 0.01923676
+    [scoutRating] => 0.2811095
+    [commanderRating] => 0.2811095
+    [sniperRating] => 0.0001416667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 182
+    [resourceId] => 6
+    [hash] => 00:01:02:00:01:01
+    [partname] => LGT-MINI-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 300
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 14
+            [range] => 357.5
+            [lifetime] => 15
+            [firerate] => 0.1176
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.25
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 2.2
+            [spreadY] => 1.5
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4534038
+    [defenseRating] => 0.006074766
+    [scoutRating] => 0.5172414
+    [commanderRating] => 0.5172412
+    [sniperRating] => 5.788096E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 183
+    [resourceId] => 6
+    [hash] => 00:01:02:00:01:02
+    [partname] => LGT-Z-MINI-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 390
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 207
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 15
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.168
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.25
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.6352035
+    [defenseRating] => 0.006074766
+    [scoutRating] => 0.724638
+    [commanderRating] => 0.7246376
+    [sniperRating] => 5.771605E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 184
+    [resourceId] => 6
+    [hash] => 00:01:02:00:01:03
+    [partname] => LGT-X-MINI-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 487.5
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 327
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 16
+            [range] => 371.25
+            [lifetime] => 15
+            [firerate] => 0.168
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 5.5125
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 0.44
+            [spreadY] => 0.4
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3057356
+    [defenseRating] => 0.007593457
+    [scoutRating] => 0.3487821
+    [commanderRating] => 0.3487821
+    [sniperRating] => 0.0001502679
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 185
+    [resourceId] => 6
+    [hash] => 00:02:00:02:00
+    [partname] => LGT-QUAD-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 378
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 410
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 17
+            [range] => 750
+            [lifetime] => 15
+            [firerate] => 8
+            [burstfirerate] => 0.5
+            [force] => 26
+            [damage] => 60
+            [bulletsperclip] => 64
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 8
+            [reloadtime] => 5
+            [initialspeed] => 45
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.1714938
+    [defenseRating] => 0.0588785
+    [scoutRating] => 0.05086627
+    [commanderRating] => 0.3391085
+    [sniperRating] => 0.0003018466
+    [supportRating] => 0.03957608
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 186
+    [resourceId] => 6
+    [hash] => 00:02:00:02:01
+    [partname] => LGT-RKT-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 435
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 426
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 18
+            [range] => 800
+            [lifetime] => 15
+            [firerate] => 4.8
+            [burstfirerate] => 0
+            [force] => 26
+            [damage] => 34
+            [bulletsperclip] => 60
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 6
+            [reloadtime] => 5
+            [initialspeed] => 70
+            [spreadX] => 6
+            [spreadY] => 6
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.1169124
+    [defenseRating] => 0.1690031
+    [scoutRating] => 0.03467703
+    [commanderRating] => 0.2311802
+    [sniperRating] => 0.0003434343
+    [supportRating] => 0.02448716
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 187
+    [resourceId] => 6
+    [hash] => 00:02:00:02:02
+    [partname] => LGT-QUAD-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 360
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 426
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 19
+            [range] => 720
+            [lifetime] => 15
+            [firerate] => 0.25
+            [burstfirerate] => 0.35
+            [force] => 26
+            [damage] => 18
+            [bulletsperclip] => 120
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 55
+            [spreadX] => 3.5
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 50
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.1980633
+    [defenseRating] => 0.05607476
+    [scoutRating] => 0.05874697
+    [commanderRating] => 0.3916465
+    [sniperRating] => 0.0001545454
+    [supportRating] => 0.02483205
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 188
+    [resourceId] => 6
+    [hash] => 00:02:00:02:03
+    [partname] => LGT-Z-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 320
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 328
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 20
+            [range] => 800
+            [lifetime] => 15
+            [firerate] => 4.8
+            [burstfirerate] => 0.35
+            [force] => 26
+            [damage] => 18.75
+            [bulletsperclip] => 160
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 4
+            [reloadtime] => 5
+            [initialspeed] => 45
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.05582482
+    [defenseRating] => 0.04984423
+    [scoutRating] => 0.01655803
+    [commanderRating] => 0.1103869
+    [sniperRating] => 0.0001287879
+    [supportRating] => 0.03276451
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 189
+    [resourceId] => 6
+    [hash] => 00:02:00:02:04
+    [partname] => LGT-X-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 346
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 426
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 21
+            [range] => 1250
+            [lifetime] => 15
+            [firerate] => 4.8
+            [burstfirerate] => 0.15
+            [force] => 26
+            [damage] => 32
+            [bulletsperclip] => 128
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 16
+            [reloadtime] => 5
+            [initialspeed] => 60
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.2934271
+    [defenseRating] => 0.05389408
+    [scoutRating] => 0.08703253
+    [commanderRating] => 0.5802169
+    [sniperRating] => 0.0002515388
+    [supportRating] => 0.04609449
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 190
+    [resourceId] => 6
+    [hash] => 00:03:00:00:03:00
+    [partname] => LGT-SNP-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 424
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 938
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 22
+            [range] => 1500
+            [lifetime] => 15
+            [firerate] => 6.96
+            [burstfirerate] => 0.1
+            [force] => 1013.85
+            [damage] => 174.375
+            [bulletsperclip] => 25
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 316.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01252026
+    [defenseRating] => 0.006604361
+    [scoutRating] => 0.004641995
+    [commanderRating] => 0.06189329
+    [sniperRating] => 0.34
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 191
+    [resourceId] => 6
+    [hash] => 00:03:00:00:03:01
+    [partname] => LGT-SNP-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 265
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 703
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 23
+            [range] => 1275
+            [lifetime] => 15
+            [firerate] => 2.88
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 93
+            [bulletsperclip] => 75
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 900
+            [spreadX] => 0.4
+            [spreadY] => 0.4
+            [kickforce] => 176
+            [impactHeat] => 350
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.0215316
+    [defenseRating] => 0.004127726
+    [scoutRating] => 0.007983027
+    [commanderRating] => 0.1064404
+    [sniperRating] => 0.09633334
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 192
+    [resourceId] => 6
+    [hash] => 00:03:00:00:03:02
+    [partname] => LGT-Z-SNP-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 265
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 625
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 24
+            [range] => 1500
+            [lifetime] => 15
+            [firerate] => 4.8
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 116.25
+            [bulletsperclip] => 36
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 375
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 176
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01816406
+    [defenseRating] => 0.004127726
+    [scoutRating] => 0.006734483
+    [commanderRating] => 0.08979311
+    [sniperRating] => 0.2361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 193
+    [resourceId] => 6
+    [hash] => 00:03:00:00:03:03
+    [partname] => LGT-X-SNP-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 318
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 750
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 25
+            [range] => 2025
+            [lifetime] => 15
+            [firerate] => 4.8
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 139.5
+            [bulletsperclip] => 31
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 800
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 176
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01816406
+    [defenseRating] => 0.004953271
+    [scoutRating] => 0.006734483
+    [commanderRating] => 0.08979311
+    [sniperRating] => 0.3701613
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 194
+    [resourceId] => 6
+    [hash] => 00:03:01:00:03:00
+    [partname] => LGT-SNP-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 402.8
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 1065
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 26
+            [range] => 1875
+            [lifetime] => 15
+            [firerate] => 8.004
+            [burstfirerate] => 0.1
+            [force] => 1013.85
+            [damage] => 174.375
+            [bulletsperclip] => 25
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 253.44
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.009588897
+    [defenseRating] => 0.006274143
+    [scoutRating] => 0.003555167
+    [commanderRating] => 0.04740223
+    [sniperRating] => 0.425
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 195
+    [resourceId] => 6
+    [hash] => 00:03:01:00:03:01
+    [partname] => LGT-SNP-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 251.75
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 799
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 27
+            [range] => 1593.75
+            [lifetime] => 15
+            [firerate] => 3.312
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 93
+            [bulletsperclip] => 75
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 900
+            [spreadX] => 0.3
+            [spreadY] => 0.3
+            [kickforce] => 140.8
+            [impactHeat] => 350
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01647354
+    [defenseRating] => 0.00392134
+    [scoutRating] => 0.00610771
+    [commanderRating] => 0.08143611
+    [sniperRating] => 0.1204167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 196
+    [resourceId] => 6
+    [hash] => 00:03:01:00:03:02
+    [partname] => LGT-Z-SNP-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 251.75
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 710
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 28
+            [range] => 1875
+            [lifetime] => 15
+            [firerate] => 5.52
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 116.25
+            [bulletsperclip] => 36
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 431.25
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 140.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.0139039
+    [defenseRating] => 0.00392134
+    [scoutRating] => 0.005154993
+    [commanderRating] => 0.06873323
+    [sniperRating] => 0.295139
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 197
+    [resourceId] => 6
+    [hash] => 00:03:01:00:03:03
+    [partname] => LGT-X-SNP-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 302.1
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 852
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 29
+            [range] => 2531.25
+            [lifetime] => 15
+            [firerate] => 5.52
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 139.5
+            [bulletsperclip] => 31
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 800
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 140.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.0139039
+    [defenseRating] => 0.004705607
+    [scoutRating] => 0.005154993
+    [commanderRating] => 0.06873323
+    [sniperRating] => 0.4627016
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 198
+    [resourceId] => 6
+    [hash] => 00:04:00:00:04:00
+    [partname] => LGT-MG-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 445
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 250
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 30
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.248
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12.6
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.5679085
+    [defenseRating] => 0
+    [scoutRating] => 0.4211141
+    [commanderRating] => 0.4211141
+    [sniperRating] => 0.007476852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 199
+    [resourceId] => 6
+    [hash] => 00:04:00:00:04:01
+    [partname] => LGT-MG-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 530
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 260
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 31
+            [range] => 380
+            [lifetime] => 15
+            [firerate] => 0.416
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 6.3
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.36
+            [spreadY] => 0.36
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.8190988
+    [defenseRating] => 0
+    [scoutRating] => 0.6073761
+    [commanderRating] => 0.6073763
+    [sniperRating] => 0.002691667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 200
+    [resourceId] => 6
+    [hash] => 00:04:00:00:04:02
+    [partname] => LGT-Z-MG
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 410
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 208
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 32
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.04
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.5850706
+    [defenseRating] => 0
+    [scoutRating] => 0.4338401
+    [commanderRating] => 0.4338401
+    [sniperRating] => 0.006729167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 201
+    [resourceId] => 6
+    [hash] => 00:04:00:00:04:03
+    [partname] => LGT-X-MG
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 328
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 234
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 33
+            [range] => 665
+            [lifetime] => 15
+            [firerate] => 1.04
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9.9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.12
+            [spreadY] => 0.16
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.572069
+    [defenseRating] => 0
+    [scoutRating] => 0.4241991
+    [commanderRating] => 0.4241992
+    [sniperRating] => 0.009420834
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 202
+    [resourceId] => 6
+    [hash] => 00:04:01:00:04:00
+    [partname] => LGT-MG-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 445
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 275
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 34
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.4352
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12.6
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4489396
+    [defenseRating] => 0
+    [scoutRating] => 0.3328965
+    [commanderRating] => 0.3328965
+    [sniperRating] => 0.007476852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 203
+    [resourceId] => 6
+    [hash] => 00:04:01:00:04:01
+    [partname] => LGT-MG-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 530
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 286
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 35
+            [range] => 380
+            [lifetime] => 15
+            [firerate] => 0.4783999
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 6.3
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.36
+            [spreadY] => 0.36
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.647509
+    [defenseRating] => 0
+    [scoutRating] => 0.4801393
+    [commanderRating] => 0.4801394
+    [sniperRating] => 0.002691667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 204
+    [resourceId] => 6
+    [hash] => 00:04:01:00:04:02
+    [partname] => LGT-Z-MG-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 410
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 229
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 36
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.196
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4621024
+    [defenseRating] => 0
+    [scoutRating] => 0.342657
+    [commanderRating] => 0.3426571
+    [sniperRating] => 0.006729167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 205
+    [resourceId] => 6
+    [hash] => 00:04:01:00:04:03
+    [partname] => LGT-X-MG-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 328
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 258
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 37
+            [range] => 665
+            [lifetime] => 15
+            [firerate] => 1.196
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9.9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.12
+            [spreadY] => 0.16
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4511768
+    [defenseRating] => 0
+    [scoutRating] => 0.3345555
+    [commanderRating] => 0.3345555
+    [sniperRating] => 0.009420834
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 206
+    [resourceId] => 6
+    [hash] => 00:04:02:00:04:00
+    [partname] => LGT-MG-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 424.5
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 275
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 38
+            [range] => 593.75
+            [lifetime] => 15
+            [firerate] => 1.7472
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12.6
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.05
+            [spreadY] => 0.05
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3687717
+    [defenseRating] => 0
+    [scoutRating] => 0.2734507
+    [commanderRating] => 0.2734507
+    [sniperRating] => 0.009346065
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 207
+    [resourceId] => 6
+    [hash] => 00:04:02:00:04:01
+    [partname] => LGT-MG-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 509.5
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 286
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 39
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 0.5824
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 6.3
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.09
+            [spreadY] => 0.09
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.5318824
+    [defenseRating] => 0
+    [scoutRating] => 0.3944001
+    [commanderRating] => 0.3944001
+    [sniperRating] => 0.003364583
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 208
+    [resourceId] => 6
+    [hash] => 00:04:02:00:04:02
+    [partname] => LGT-Z-MG-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 389.5
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 229
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 40
+            [range] => 593.75
+            [lifetime] => 15
+            [firerate] => 1.456
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.05
+            [spreadY] => 0.05
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3795842
+    [defenseRating] => 0
+    [scoutRating] => 0.2814683
+    [commanderRating] => 0.2814683
+    [sniperRating] => 0.008411459
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 209
+    [resourceId] => 6
+    [hash] => 00:04:02:00:04:03
+    [partname] => LGT-X-MG-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 311.6
+    [armor] => 8
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 258
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 41
+            [range] => 831.25
+            [lifetime] => 15
+            [firerate] => 1.456
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 9.9
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.03
+            [spreadY] => 0.04
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3706095
+    [defenseRating] => 0
+    [scoutRating] => 0.2748134
+    [commanderRating] => 0.2748134
+    [sniperRating] => 0.01177604
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 210
+    [resourceId] => 6
+    [hash] => 00:05:00:05:00
+    [partname] => LGT-SHOT-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 609
+    [armor] => 76
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 433
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 42
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 3.78
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 14.28
+            [bulletsperclip] => 34
+            [clips] => 0
+            [shotsperfire] => 12
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.5
+            [spreadY] => 2.5
+            [kickforce] => 86
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.245381
+    [defenseRating] => 0.2345638
+    [scoutRating] => 0.3639086
+    [commanderRating] => 0.2426057
+    [sniperRating] => 0.001666666
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 211
+    [resourceId] => 6
+    [hash] => 00:05:00:05:01
+    [partname] => LGT-SHOT-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 430
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 416
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 43
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 1.96
+            [burstfirerate] => 0.1
+            [force] => 17.85
+            [damage] => 6.375
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 14
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 4.375
+            [spreadY] => 4.375
+            [kickforce] => 14.7
+            [impactHeat] => 25
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2565488
+    [defenseRating] => 0.1182243
+    [scoutRating] => 0.3804709
+    [commanderRating] => 0.2536472
+    [sniperRating] => 0.000899471
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 212
+    [resourceId] => 6
+    [hash] => 00:05:00:05:02
+    [partname] => LGT-Z-SHOT
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 420
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 333
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 44
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 2.8
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 12.75
+            [bulletsperclip] => 45
+            [clips] => 0
+            [shotsperfire] => 14
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.5
+            [spreadY] => 2.5
+            [kickforce] => 21
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4486907
+    [defenseRating] => 0.1165109
+    [scoutRating] => 0.665424
+    [commanderRating] => 0.4436161
+    [sniperRating] => 0.00125926
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 213
+    [resourceId] => 6
+    [hash] => 00:05:00:05:03
+    [partname] => LGT-X-SHOT
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 357
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 293
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 45
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 2.8
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 9.5625
+            [bulletsperclip] => 45
+            [clips] => 0
+            [shotsperfire] => 8
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.3
+            [spreadY] => 0.5
+            [kickforce] => 21
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2185481
+    [defenseRating] => 0.1057165
+    [scoutRating] => 0.3241144
+    [commanderRating] => 0.2160763
+    [sniperRating] => 0.002990741
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 214
+    [resourceId] => 6
+    [hash] => 00:06:00:00:06:00
+    [partname] => LGT-CON-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 773.5
+    [armor] => 41
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 592
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 46
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 5.2
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 158.4
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 160
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 106.4
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3014958
+    [defenseRating] => 0.1843458
+    [scoutRating] => 0.00894258
+    [commanderRating] => 0.1192344
+    [sniperRating] => 0.00367284
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 215
+    [resourceId] => 6
+    [hash] => 00:06:00:00:06:01
+    [partname] => LGT-CON-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 585
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 500
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 47
+            [range] => 245
+            [lifetime] => 15
+            [firerate] => 2.6
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 59.4
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 235
+            [spreadX] => 0.52
+            [spreadY] => 0.52
+            [kickforce] => 60.8
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2677283
+    [defenseRating] => 0.1316199
+    [scoutRating] => 0.00794101
+    [commanderRating] => 0.1058801
+    [sniperRating] => 0.001101852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 216
+    [resourceId] => 6
+    [hash] => 00:06:00:00:06:02
+    [partname] => LGT-Z-CON
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 595
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 408
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 48
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 5.2
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 99
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 160
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2734153
+    [defenseRating] => 0.1331776
+    [scoutRating] => 0.008109687
+    [commanderRating] => 0.1081292
+    [sniperRating] => 0.002361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 217
+    [resourceId] => 6
+    [hash] => 00:06:00:00:06:03
+    [partname] => LGT-X-CON
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 575
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 479
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 49
+            [range] => 437.5
+            [lifetime] => 15
+            [firerate] => 5.2
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 133.65
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 136
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3143991
+    [defenseRating] => 0.1300623
+    [scoutRating] => 0.0093253
+    [commanderRating] => 0.1243373
+    [sniperRating] => 0.002479168
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 218
+    [resourceId] => 6
+    [hash] => 00:06:01:00:06:00
+    [partname] => LGT-CON-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 773.5
+    [armor] => 41
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 622
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 50
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 5.72
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 158.4
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 192
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 106.4
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2608674
+    [defenseRating] => 0.1843458
+    [scoutRating] => 0.007737513
+    [commanderRating] => 0.1031668
+    [sniperRating] => 0.00367284
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 219
+    [resourceId] => 6
+    [hash] => 00:06:01:00:06:01
+    [partname] => LGT-CON-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 585
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 526
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 51
+            [range] => 245
+            [lifetime] => 15
+            [firerate] => 2.86
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 59.4
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 267
+            [spreadX] => 0.52
+            [spreadY] => 0.52
+            [kickforce] => 60.8
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2313587
+    [defenseRating] => 0.1316199
+    [scoutRating] => 0.00686226
+    [commanderRating] => 0.0914968
+    [sniperRating] => 0.001101852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 220
+    [resourceId] => 6
+    [hash] => 00:06:01:00:06:02
+    [partname] => LGT-Z-CON-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 595
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 429
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 52
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 5.72
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 99
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 192
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2363922
+    [defenseRating] => 0.1331776
+    [scoutRating] => 0.007011558
+    [commanderRating] => 0.09348745
+    [sniperRating] => 0.002361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 221
+    [resourceId] => 6
+    [hash] => 00:06:01:00:06:03
+    [partname] => LGT-X-CON-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 575
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 504
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 53
+            [range] => 437.5
+            [lifetime] => 15
+            [firerate] => 5.72
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 133.65
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 163.2
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2716399
+    [defenseRating] => 0.1300623
+    [scoutRating] => 0.008057027
+    [commanderRating] => 0.107427
+    [sniperRating] => 0.002479168
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 222
+    [resourceId] => 6
+    [hash] => 00:06:02:00:06:00
+    [partname] => LGT-CON-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 773.5
+    [armor] => 41
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 680
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 54
+            [range] => 455
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 158.4
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 216
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 85.12
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.209983
+    [defenseRating] => 0.1843458
+    [scoutRating] => 0.006228242
+    [commanderRating] => 0.08304322
+    [sniperRating] => 0.004774692
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 223
+    [resourceId] => 6
+    [hash] => 00:06:02:00:06:01
+    [partname] => LGT-CON-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 585
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 575
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 55
+            [range] => 318.5
+            [lifetime] => 15
+            [firerate] => 3.25
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 59.4
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 291
+            [spreadX] => 0.26
+            [spreadY] => 0.26
+            [kickforce] => 48.64
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1862458
+    [defenseRating] => 0.1316199
+    [scoutRating] => 0.00552418
+    [commanderRating] => 0.07365575
+    [sniperRating] => 0.001432407
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 224
+    [resourceId] => 6
+    [hash] => 00:06:02:00:06:02
+    [partname] => LGT-Z-CON-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 595
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 469
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 56
+            [range] => 455
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 99
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 216
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 60.8
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1902831
+    [defenseRating] => 0.1331776
+    [scoutRating] => 0.005643929
+    [commanderRating] => 0.07525238
+    [sniperRating] => 0.003069445
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 225
+    [resourceId] => 6
+    [hash] => 00:06:02:00:06:03
+    [partname] => LGT-X-CON-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 575
+    [armor] => 26
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 3
+    [weight] => 551
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 57
+            [range] => 568.75
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 133.65
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 183.6
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 60.8
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2186529
+    [defenseRating] => 0.1300623
+    [scoutRating] => 0.006485397
+    [commanderRating] => 0.08647195
+    [sniperRating] => 0.003222917
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 226
+    [resourceId] => 6
+    [hash] => 01:00:02:00
+    [partname] => HWZ-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 409.2
+    [armor] => 55
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1088
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 58
+            [range] => 1092.5
+            [lifetime] => 120
+            [firerate] => 10
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 99.2
+            [bulletsperclip] => 41
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 100
+            [spreadX] => 1.5
+            [spreadY] => 0.75
+            [kickforce] => 361.8
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.004273896
+    [defenseRating] => 0.01494081
+    [scoutRating] => 0.001584584
+    [commanderRating] => 0.02112779
+    [sniperRating] => 0.0002435418
+    [supportRating] => 0.181997
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 227
+    [resourceId] => 6
+    [hash] => 01:00:02:01
+    [partname] => HWZ-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 443.3
+    [armor] => 55
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1066
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 59
+            [range] => 760
+            [lifetime] => 120
+            [firerate] => 4
+            [burstfirerate] => 0.1
+            [force] => 100.2
+            [damage] => 43.4
+            [bulletsperclip] => 107
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 80
+            [spreadX] => 3.75
+            [spreadY] => 1.875
+            [kickforce] => 271.35
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.004771048
+    [defenseRating] => 0.01547196
+    [scoutRating] => 0.001768907
+    [commanderRating] => 0.02358543
+    [sniperRating] => 6.49181E-5
+    [supportRating] => 0.1906071
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 228
+    [resourceId] => 6
+    [hash] => 01:00:02:02
+    [partname] => PR-UN3
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 341
+    [armor] => 55
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 870
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 60
+            [range] => 950
+            [lifetime] => 120
+            [firerate] => 10
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 62
+            [bulletsperclip] => 58
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 80
+            [spreadX] => 1.5
+            [spreadY] => 0.75
+            [kickforce] => 201
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.003340517
+    [defenseRating] => 0.0138785
+    [scoutRating] => 0.001238525
+    [commanderRating] => 0.01651367
+    [sniperRating] => 0.0001497034
+    [supportRating] => 0.1603501
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 229
+    [resourceId] => 6
+    [hash] => 01:00:02:03
+    [partname] => Lasrak
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Howitzer
+    [hitpoints] => 361
+    [armor] => 55
+    [energygen] => 0
+    [energyuse] => 80
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 979
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 61
+            [range] => 1330
+            [lifetime] => 120
+            [firerate] => 8.5
+            [burstfirerate] => 0.1
+            [force] => 501
+            [damage] => 71.3
+            [bulletsperclip] => 52
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 116
+            [spreadX] => 0.6
+            [spreadY] => 0.3
+            [kickforce] => 201
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0.004016327
+    [defenseRating] => 0.01419003
+    [scoutRating] => 0.001489089
+    [commanderRating] => 0.01985452
+    [sniperRating] => 0.0002337675
+    [supportRating] => 0.1776902
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High arcing weapon with large blast radius and very slow projectile speed
+    [heatThreshold] => 80
+)
+Array
+(
+    [ID] => 230
+    [resourceId] => 6
+    [hash] => 01:01:00:03:00
+    [partname] => MINI-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 525
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 570
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 62
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.245
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 10.5
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2290883
+    [defenseRating] => 0.02063863
+    [scoutRating] => 0.261343
+    [commanderRating] => 0.2613431
+    [sniperRating] => 0.0001416667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 231
+    [resourceId] => 6
+    [hash] => 01:01:00:03:01
+    [partname] => MINI-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 413
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 63
+            [range] => 357.5
+            [lifetime] => 15
+            [firerate] => 0.1225
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.2
+            [spreadY] => 1.5
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4215668
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.4809218
+    [commanderRating] => 0.4809217
+    [sniperRating] => 5.788096E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 232
+    [resourceId] => 6
+    [hash] => 01:01:00:03:02
+    [partname] => Z-MINI
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 285
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 64
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.175
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 9
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.5498118
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.6272233
+    [commanderRating] => 0.6272231
+    [sniperRating] => 5.771605E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 233
+    [resourceId] => 6
+    [hash] => 01:01:00:03:03
+    [partname] => X-MINI
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 437.5
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 405
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 65
+            [range] => 371.25
+            [lifetime] => 15
+            [firerate] => 0.175
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.35
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 0.44
+            [spreadY] => 0.4
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3159721
+    [defenseRating] => 0.00915109
+    [scoutRating] => 0.3604598
+    [commanderRating] => 0.3604598
+    [sniperRating] => 0.0001502679
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 234
+    [resourceId] => 6
+    [hash] => 01:01:01:03:00
+    [partname] => MINI-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 525
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 656
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 66
+            [range] => 316.25
+            [lifetime] => 15
+            [firerate] => 0.2695
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 10.5
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.77
+            [spreadY] => 0.7
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1809594
+    [defenseRating] => 0.02063863
+    [scoutRating] => 0.2064379
+    [commanderRating] => 0.2064379
+    [sniperRating] => 0.0001629167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 235
+    [resourceId] => 6
+    [hash] => 01:01:01:03:01
+    [partname] => MINI-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 476
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 67
+            [range] => 411.125
+            [lifetime] => 15
+            [firerate] => 0.13475
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 1.54
+            [spreadY] => 1.05
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3325193
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.3793367
+    [commanderRating] => 0.3793367
+    [sniperRating] => 6.656311E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 236
+    [resourceId] => 6
+    [hash] => 01:01:01:03:02
+    [partname] => Z-MINI-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 328
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 68
+            [range] => 316.25
+            [lifetime] => 15
+            [firerate] => 0.1925
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 9
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.77
+            [spreadY] => 0.7
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4343027
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.4954507
+    [commanderRating] => 0.4954508
+    [sniperRating] => 6.637347E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 237
+    [resourceId] => 6
+    [hash] => 01:01:01:03:03
+    [partname] => X-MINI-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 437.5
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 448
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 69
+            [range] => 426.9375
+            [lifetime] => 15
+            [firerate] => 0.1925
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.35
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 437.5
+            [spreadX] => 0.308
+            [spreadY] => 0.28
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2596767
+    [defenseRating] => 0.00915109
+    [scoutRating] => 0.2962383
+    [commanderRating] => 0.2962383
+    [sniperRating] => 0.0001728081
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 238
+    [resourceId] => 6
+    [hash] => 01:01:02:03:00
+    [partname] => MINI-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 525
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 656
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 70
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.294
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 10.5
+            [bulletsperclip] => 550
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1658795
+    [defenseRating] => 0.02063863
+    [scoutRating] => 0.1892347
+    [commanderRating] => 0.1892347
+    [sniperRating] => 0.0001416667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 239
+    [resourceId] => 6
+    [hash] => 01:01:02:03:01
+    [partname] => MINI-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 3
+    [cooling] => 1
+    [weight] => 476
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 71
+            [range] => 357.5
+            [lifetime] => 15
+            [firerate] => 0.147
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7
+            [bulletsperclip] => 1750
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 2.2
+            [spreadY] => 1.5
+            [kickforce] => 0
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3048093
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.3477253
+    [commanderRating] => 0.3477253
+    [sniperRating] => 5.788096E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 235
+)
+Array
+(
+    [ID] => 240
+    [resourceId] => 6
+    [hash] => 01:01:02:03:02
+    [partname] => Z-MINI-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 350
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 328
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 72
+            [range] => 275
+            [lifetime] => 15
+            [firerate] => 0.21
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 9
+            [bulletsperclip] => 1350
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 1.1
+            [spreadY] => 1
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3981108
+    [defenseRating] => 0.007788162
+    [scoutRating] => 0.4541632
+    [commanderRating] => 0.4541632
+    [sniperRating] => 5.771605E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 241
+    [resourceId] => 6
+    [hash] => 01:01:02:03:03
+    [partname] => X-MINI-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Machine Gun
+    [hitpoints] => 437.5
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 448
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 73
+            [range] => 371.25
+            [lifetime] => 15
+            [firerate] => 0.21
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 7.35
+            [bulletsperclip] => 700
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 420
+            [spreadX] => 0.44
+            [spreadY] => 0.4
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2380371
+    [defenseRating] => 0.00915109
+    [scoutRating] => 0.2715517
+    [commanderRating] => 0.2715518
+    [sniperRating] => 0.0001502679
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Very fast firing but with limited accuracy
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 242
+    [resourceId] => 6
+    [hash] => 01:02:04:00
+    [partname] => QUAD-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 378
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 588
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 74
+            [range] => 750
+            [lifetime] => 15
+            [firerate] => 8
+            [burstfirerate] => 0.5
+            [force] => 26
+            [damage] => 60
+            [bulletsperclip] => 64
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 8
+            [reloadtime] => 5
+            [initialspeed] => 45
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.119579
+    [defenseRating] => 0.08224299
+    [scoutRating] => 0.03546798
+    [commanderRating] => 0.2364532
+    [sniperRating] => 0.0003018466
+    [supportRating] => 0.03957608
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 243
+    [resourceId] => 6
+    [hash] => 01:02:04:01
+    [partname] => RKT-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 435
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 611
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 75
+            [range] => 800
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0
+            [force] => 26
+            [damage] => 34
+            [bulletsperclip] => 60
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 6
+            [reloadtime] => 5
+            [initialspeed] => 70
+            [spreadX] => 6
+            [spreadY] => 6
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.0652107
+    [defenseRating] => 0.1690031
+    [scoutRating] => 0.01934195
+    [commanderRating] => 0.1289463
+    [sniperRating] => 0.0003434343
+    [supportRating] => 0.02448716
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 244
+    [resourceId] => 6
+    [hash] => 01:02:04:02
+    [partname] => QUAD-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 320
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 611
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 76
+            [range] => 720
+            [lifetime] => 15
+            [firerate] => 0.25
+            [burstfirerate] => 0.35
+            [force] => 26
+            [damage] => 18
+            [bulletsperclip] => 120
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 55
+            [spreadX] => 3.5
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 50
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.1380932
+    [defenseRating] => 0.07320872
+    [scoutRating] => 0.04095943
+    [commanderRating] => 0.2730628
+    [sniperRating] => 0.0001545454
+    [supportRating] => 0.02483205
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 245
+    [resourceId] => 6
+    [hash] => 01:02:04:03
+    [partname] => Z-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 280
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 470
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 77
+            [range] => 800
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.35
+            [force] => 26
+            [damage] => 25
+            [bulletsperclip] => 160
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 4
+            [reloadtime] => 5
+            [initialspeed] => 45
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.04155584
+    [defenseRating] => 0.06697819
+    [scoutRating] => 0.01232575
+    [commanderRating] => 0.0821717
+    [sniperRating] => 0.0001287879
+    [supportRating] => 0.04138675
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 246
+    [resourceId] => 6
+    [hash] => 01:02:04:04
+    [partname] => X-QUAD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 346
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 611
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 78
+            [range] => 1250
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.15
+            [force] => 26
+            [damage] => 32
+            [bulletsperclip] => 128
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 16
+            [reloadtime] => 5
+            [initialspeed] => 60
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 10
+        )
+
+    [attackRating] => 0.1636661
+    [defenseRating] => 0.07725857
+    [scoutRating] => 0.0485445
+    [commanderRating] => 0.32363
+    [sniperRating] => 0.0002515388
+    [supportRating] => 0.04609449
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Explosive blast with mid to long range projectiles that accelerate
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 247
+    [resourceId] => 6
+    [hash] => 01:03:00:06:00
+    [partname] => SNP-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 360
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1270
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 79
+            [range] => 1500
+            [lifetime] => 15
+            [firerate] => 8.7
+            [burstfirerate] => 0.1
+            [force] => 1013.85
+            [damage] => 232.5
+            [bulletsperclip] => 25
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 316.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.009863725
+    [defenseRating] => 0.005607476
+    [scoutRating] => 0.003657064
+    [commanderRating] => 0.04876084
+    [sniperRating] => 0.34
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 248
+    [resourceId] => 6
+    [hash] => 01:03:00:06:01
+    [partname] => SNP-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 225
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 953
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 80
+            [range] => 1275
+            [lifetime] => 15
+            [firerate] => 3.6
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 124
+            [bulletsperclip] => 75
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 900
+            [spreadX] => 0.4
+            [spreadY] => 0.4
+            [kickforce] => 176
+            [impactHeat] => 350
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01694211
+    [defenseRating] => 0.003504673
+    [scoutRating] => 0.006281435
+    [commanderRating] => 0.08375248
+    [sniperRating] => 0.09633334
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 249
+    [resourceId] => 6
+    [hash] => 01:03:00:06:02
+    [partname] => RM-DIR
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 225
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 847
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 81
+            [range] => 1500
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 155
+            [bulletsperclip] => 36
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 375
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 176
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01429678
+    [defenseRating] => 0.003504673
+    [scoutRating] => 0.005300656
+    [commanderRating] => 0.0706754
+    [sniperRating] => 0.2361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 250
+    [resourceId] => 6
+    [hash] => 01:03:00:06:03
+    [partname] => X-SNP-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 270
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1016
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 82
+            [range] => 2025
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 186
+            [bulletsperclip] => 31
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 800
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 176
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01430241
+    [defenseRating] => 0.004205607
+    [scoutRating] => 0.005302743
+    [commanderRating] => 0.07070326
+    [sniperRating] => 0.3701613
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 251
+    [resourceId] => 6
+    [hash] => 01:03:01:06:00
+    [partname] => SNP-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 342
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1443
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 83
+            [range] => 1875
+            [lifetime] => 15
+            [firerate] => 10.005
+            [burstfirerate] => 0.1
+            [force] => 1013.85
+            [damage] => 232.5
+            [bulletsperclip] => 25
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 253.44
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.007548848
+    [defenseRating] => 0.005327103
+    [scoutRating] => 0.002798801
+    [commanderRating] => 0.03731735
+    [sniperRating] => 0.425
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 252
+    [resourceId] => 6
+    [hash] => 01:03:01:06:01
+    [partname] => SNP-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 213.75
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1082
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 84
+            [range] => 1593.75
+            [lifetime] => 15
+            [firerate] => 4.14
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 124
+            [bulletsperclip] => 75
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 900
+            [spreadX] => 0.3
+            [spreadY] => 0.3
+            [kickforce] => 140.8
+            [impactHeat] => 350
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01297583
+    [defenseRating] => 0.003329439
+    [scoutRating] => 0.004810904
+    [commanderRating] => 0.06414537
+    [sniperRating] => 0.1204167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 253
+    [resourceId] => 6
+    [hash] => 01:03:01:06:02
+    [partname] => Z-SNP-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 213.75
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 962
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 85
+            [range] => 1875
+            [lifetime] => 15
+            [firerate] => 6.9
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 155
+            [bulletsperclip] => 36
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 431.25
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 140.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01094582
+    [defenseRating] => 0.003329439
+    [scoutRating] => 0.004058261
+    [commanderRating] => 0.05411014
+    [sniperRating] => 0.295139
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 254
+    [resourceId] => 6
+    [hash] => 01:03:01:06:03
+    [partname] => L8E4 'Opportunist'
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Sniper Rifle
+    [hitpoints] => 256.5
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1154
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 86
+            [range] => 2531.25
+            [lifetime] => 15
+            [firerate] => 6.9
+            [burstfirerate] => 0.1
+            [force] => 751
+            [damage] => 186
+            [bulletsperclip] => 31
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 800
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 140.8
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.01094962
+    [defenseRating] => 0.003995327
+    [scoutRating] => 0.004059669
+    [commanderRating] => 0.05412891
+    [sniperRating] => 0.4627016
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Long range with high damage
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 255
+    [resourceId] => 6
+    [hash] => 01:04:00:00:00
+    [partname] => MG-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 405
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 384
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 87
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.56
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 16.8
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3943809
+    [defenseRating] => 0
+    [scoutRating] => 0.2924403
+    [commanderRating] => 0.2924403
+    [sniperRating] => 0.007476852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 256
+    [resourceId] => 6
+    [hash] => 01:04:00:00:01
+    [partname] => MG-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 490
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 400
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 88
+            [range] => 380
+            [lifetime] => 15
+            [firerate] => 0.52
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 8.4
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.36
+            [spreadY] => 0.36
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.5679085
+    [defenseRating] => 0
+    [scoutRating] => 0.4211141
+    [commanderRating] => 0.4211141
+    [sniperRating] => 0.002691667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 257
+    [resourceId] => 6
+    [hash] => 01:04:00:00:02
+    [partname] => Z-MG
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 370
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 320
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 89
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.3
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4056489
+    [defenseRating] => 0
+    [scoutRating] => 0.3007958
+    [commanderRating] => 0.3007958
+    [sniperRating] => 0.006729167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 258
+    [resourceId] => 6
+    [hash] => 01:04:00:00:03
+    [partname] => X-MG
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 296
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 360
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 90
+            [range] => 665
+            [lifetime] => 15
+            [firerate] => 1.3
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 13.2
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.12
+            [spreadY] => 0.16
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3966345
+    [defenseRating] => 0
+    [scoutRating] => 0.2941114
+    [commanderRating] => 0.2941115
+    [sniperRating] => 0.009420834
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 259
+    [resourceId] => 6
+    [hash] => 01:04:01:00:00
+    [partname] => MG-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 405
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 422
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 91
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.794
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 16.8
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.312059
+    [defenseRating] => 0
+    [scoutRating] => 0.2313972
+    [commanderRating] => 0.2313973
+    [sniperRating] => 0.007476852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 260
+    [resourceId] => 6
+    [hash] => 01:04:01:00:01
+    [partname] => MG-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 490
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 440
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 92
+            [range] => 380
+            [lifetime] => 15
+            [firerate] => 0.5979999
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 8.4
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.36
+            [spreadY] => 0.36
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.4489396
+    [defenseRating] => 0
+    [scoutRating] => 0.3328965
+    [commanderRating] => 0.3328965
+    [sniperRating] => 0.002691667
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 261
+    [resourceId] => 6
+    [hash] => 01:04:01:00:02
+    [partname] => Z-MG-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 370
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 352
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 93
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 1.495
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3206711
+    [defenseRating] => 0
+    [scoutRating] => 0.2377832
+    [commanderRating] => 0.2377832
+    [sniperRating] => 0.006729167
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 262
+    [resourceId] => 6
+    [hash] => 01:04:01:00:03
+    [partname] => X-MG-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 296
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 396
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 94
+            [range] => 665
+            [lifetime] => 15
+            [firerate] => 1.495
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 13.2
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.12
+            [spreadY] => 0.16
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3135451
+    [defenseRating] => 0
+    [scoutRating] => 0.2324992
+    [commanderRating] => 0.2324992
+    [sniperRating] => 0.009420834
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 263
+    [resourceId] => 6
+    [hash] => 01:04:02:00:00
+    [partname] => MG-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 386.5
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 422
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 95
+            [range] => 593.75
+            [lifetime] => 15
+            [firerate] => 2.184
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 16.8
+            [bulletsperclip] => 270
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.05
+            [spreadY] => 0.05
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2563342
+    [defenseRating] => 0
+    [scoutRating] => 0.1900763
+    [commanderRating] => 0.1900763
+    [sniperRating] => 0.009346065
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 264
+    [resourceId] => 6
+    [hash] => 01:04:02:00:01
+    [partname] => MG-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 471.5
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 440
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 96
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 0.728
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 8.4
+            [bulletsperclip] => 600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.09
+            [spreadY] => 0.09
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3687717
+    [defenseRating] => 0
+    [scoutRating] => 0.2734507
+    [commanderRating] => 0.2734507
+    [sniperRating] => 0.003364583
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 265
+    [resourceId] => 6
+    [hash] => 01:04:02:00:02
+    [partname] => Z-MG-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 351.5
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 352
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 97
+            [range] => 593.75
+            [lifetime] => 15
+            [firerate] => 1.82
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 12
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.05
+            [spreadY] => 0.05
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2634084
+    [defenseRating] => 0
+    [scoutRating] => 0.1953219
+    [commanderRating] => 0.1953219
+    [sniperRating] => 0.008411459
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 266
+    [resourceId] => 6
+    [hash] => 01:04:02:00:03
+    [partname] => X-MG-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Assault Rifle
+    [hitpoints] => 281.2
+    [armor] => 38
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 396
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 98
+            [range] => 831.25
+            [lifetime] => 15
+            [firerate] => 1.82
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 13.2
+            [bulletsperclip] => 300
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 625
+            [spreadX] => 0.03
+            [spreadY] => 0.04
+            [kickforce] => 0
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2575549
+    [defenseRating] => 0
+    [scoutRating] => 0.1909814
+    [commanderRating] => 0.1909814
+    [sniperRating] => 0.01177604
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Mid range weapon that shoots in 3 shot bursts
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 267
+    [resourceId] => 6
+    [hash] => 01:05:05:00
+    [partname] => SHOT-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 551
+    [armor] => 100
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 619
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 99
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 4.725
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 19.04
+            [bulletsperclip] => 34
+            [clips] => 0
+            [shotsperfire] => 12
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.5
+            [spreadY] => 2.5
+            [kickforce] => 86
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.183091
+    [defenseRating] => 0.2657477
+    [scoutRating] => 0.2715303
+    [commanderRating] => 0.1810202
+    [sniperRating] => 0.001666666
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 268
+    [resourceId] => 6
+    [hash] => 01:05:05:01
+    [partname] => SHOT-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 390
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 595
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 100
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 2.45
+            [burstfirerate] => 0.1
+            [force] => 17.85
+            [damage] => 8.5
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 14
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 4.375
+            [spreadY] => 4.375
+            [kickforce] => 14.7
+            [impactHeat] => 25
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1913265
+    [defenseRating] => 0.1781932
+    [scoutRating] => 0.2837439
+    [commanderRating] => 0.1891626
+    [sniperRating] => 0.000899471
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 269
+    [resourceId] => 6
+    [hash] => 01:05:05:02
+    [partname] => Z-SHOT
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 380
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 476
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 101
+            [range] => 200
+            [lifetime] => 15
+            [firerate] => 3.5
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 17
+            [bulletsperclip] => 45
+            [clips] => 0
+            [shotsperfire] => 14
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 350
+            [spreadX] => 2.5
+            [spreadY] => 2.5
+            [kickforce] => 21
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3348214
+    [defenseRating] => 0.1764797
+    [scoutRating] => 0.4965517
+    [commanderRating] => 0.3310345
+    [sniperRating] => 0.00125926
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 270
+    [resourceId] => 6
+    [hash] => 01:05:05:03
+    [partname] => X-SHOT
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Shotgun
+    [hitpoints] => 323
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 419
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 102
+            [range] => 475
+            [lifetime] => 15
+            [firerate] => 3.5
+            [burstfirerate] => 0.1
+            [force] => 51
+            [damage] => 12.75
+            [bulletsperclip] => 45
+            [clips] => 0
+            [shotsperfire] => 8
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 500
+            [spreadX] => 0.3
+            [spreadY] => 0.5
+            [kickforce] => 21
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1630156
+    [defenseRating] => 0.1667134
+    [scoutRating] => 0.2417579
+    [commanderRating] => 0.1611719
+    [sniperRating] => 0.002990741
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => Shoots multiple projectiles per shot
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 271
+    [resourceId] => 6
+    [hash] => 01:06:00:01:00
+    [partname] => Bullot Cannon mk1
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 721.5
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 826
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 103
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 211.2
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 160
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 106.4
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2304897
+    [defenseRating] => 0.2369937
+    [scoutRating] => 0.006836488
+    [commanderRating] => 0.09115319
+    [sniperRating] => 0.00367284
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 272
+    [resourceId] => 6
+    [hash] => 01:06:00:01:01
+    [partname] => CON-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 545
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 698
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 104
+            [range] => 245
+            [lifetime] => 15
+            [firerate] => 3.25
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 79.2
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 235
+            [spreadX] => 0.52
+            [spreadY] => 0.52
+            [kickforce] => 60.8
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.204568
+    [defenseRating] => 0.1861371
+    [scoutRating] => 0.006067628
+    [commanderRating] => 0.08090171
+    [sniperRating] => 0.001101852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 273
+    [resourceId] => 6
+    [hash] => 01:06:00:01:02
+    [partname] => Z-CON
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 555
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 570
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 105
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 132
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 160
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.208755
+    [defenseRating] => 0.1876947
+    [scoutRating] => 0.006191819
+    [commanderRating] => 0.08255757
+    [sniperRating] => 0.002361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 274
+    [resourceId] => 6
+    [hash] => 01:06:00:01:03
+    [partname] => X-CON
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 535
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 670
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 106
+            [range] => 437.5
+            [lifetime] => 15
+            [firerate] => 6.5
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 178.2
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 136
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2397566
+    [defenseRating] => 0.1845794
+    [scoutRating] => 0.00711135
+    [commanderRating] => 0.094818
+    [sniperRating] => 0.002479168
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 275
+    [resourceId] => 6
+    [hash] => 01:06:01:01:00
+    [partname] => CON-.x2-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 721.5
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 867
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 107
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 7.15
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 211.2
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 192
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 106.4
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1996273
+    [defenseRating] => 0.2369937
+    [scoutRating] => 0.005921085
+    [commanderRating] => 0.07894782
+    [sniperRating] => 0.00367284
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 276
+    [resourceId] => 6
+    [hash] => 01:06:01:01:01
+    [partname] => CON-.x2-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 545
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 733
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 108
+            [range] => 245
+            [lifetime] => 15
+            [firerate] => 3.575
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 79.2
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 267
+            [spreadX] => 0.52
+            [spreadY] => 0.52
+            [kickforce] => 60.8
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1770909
+    [defenseRating] => 0.1861371
+    [scoutRating] => 0.005252641
+    [commanderRating] => 0.0700352
+    [sniperRating] => 0.001101852
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 277
+    [resourceId] => 6
+    [hash] => 01:06:01:01:02
+    [partname] => Z-CON-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 555
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 598
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 109
+            [range] => 350
+            [lifetime] => 15
+            [firerate] => 7.15
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 132
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 192
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1808914
+    [defenseRating] => 0.1876947
+    [scoutRating] => 0.005365365
+    [commanderRating] => 0.0715382
+    [sniperRating] => 0.002361111
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 278
+    [resourceId] => 6
+    [hash] => 01:06:01:01:03
+    [partname] => X-CON-.x2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 535
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 703
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 110
+            [range] => 437.5
+            [lifetime] => 15
+            [firerate] => 7.15
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 178.2
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 163.2
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 76
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2077292
+    [defenseRating] => 0.1845794
+    [scoutRating] => 0.006161394
+    [commanderRating] => 0.08215191
+    [sniperRating] => 0.002479168
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 279
+    [resourceId] => 6
+    [hash] => 01:06:02:01:00
+    [partname] => CON-.Y6-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 721.5
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 951
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 111
+            [range] => 455
+            [lifetime] => 15
+            [firerate] => 8.125
+            [burstfirerate] => 0.1
+            [force] => 345
+            [damage] => 211.2
+            [bulletsperclip] => 27
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 216
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 85.12
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1601552
+    [defenseRating] => 0.2369937
+    [scoutRating] => 0.004750317
+    [commanderRating] => 0.06333758
+    [sniperRating] => 0.004774692
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 280
+    [resourceId] => 6
+    [hash] => 01:06:02:01:01
+    [partname] => CON-.Y6-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 545
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 804
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 112
+            [range] => 318.5
+            [lifetime] => 15
+            [firerate] => 4.0625
+            [burstfirerate] => 0.1
+            [force] => 193.2
+            [damage] => 79.2
+            [bulletsperclip] => 63
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 291
+            [spreadX] => 0.26
+            [spreadY] => 0.26
+            [kickforce] => 48.64
+            [impactHeat] => 300
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.142078
+    [defenseRating] => 0.1861371
+    [scoutRating] => 0.004214134
+    [commanderRating] => 0.05618843
+    [sniperRating] => 0.001432407
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 281
+    [resourceId] => 6
+    [hash] => 01:06:02:01:02
+    [partname] => Z-CON-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 555
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 656
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 113
+            [range] => 455
+            [lifetime] => 15
+            [firerate] => 8.125
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 132
+            [bulletsperclip] => 42
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 216
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 60.8
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1451102
+    [defenseRating] => 0.1876947
+    [scoutRating] => 0.00430407
+    [commanderRating] => 0.0573876
+    [sniperRating] => 0.003069445
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 282
+    [resourceId] => 6
+    [hash] => 01:06:02:01:03
+    [partname] => X-CON-.Y6
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Cannon
+    [hitpoints] => 535
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 771
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 114
+            [range] => 568.75
+            [lifetime] => 15
+            [firerate] => 8.125
+            [burstfirerate] => 0.1
+            [force] => 276
+            [damage] => 178.2
+            [bulletsperclip] => 50
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 183.6
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 60.8
+            [impactHeat] => 30
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1666791
+    [defenseRating] => 0.1845794
+    [scoutRating] => 0.004943819
+    [commanderRating] => 0.0659176
+    [sniperRating] => 0.003222917
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => Rebel
+    [description] => High power weapon with slower projectiles
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 283
+    [resourceId] => 14
+    [hash] => 00:00:00
+    [partname] => LGT-Mega-FLAME-Ext
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 397
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 328
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 115
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 156
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 15
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.06802181
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 8.173077E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 284
+    [resourceId] => 14
+    [hash] => 00:00:01
+    [partname] => LGT-Mega-FLAME
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 397
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 273
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 116
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 120
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 15
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.06802181
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 0.00010625
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 285
+    [resourceId] => 14
+    [hash] => 00:01:00
+    [partname] => LGT-FLAME-Ext
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 397
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 252
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 117
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 429
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.06802181
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 2.972029E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 286
+    [resourceId] => 14
+    [hash] => 00:01:01
+    [partname] => LGT-FLAME
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 397
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 210
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 118
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 330
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.06802181
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 3.863636E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 287
+    [resourceId] => 14
+    [hash] => 01:00:00
+    [partname] => S.A. Burnetto
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 415
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 586
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 119
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 156
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 15
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.09680682
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 8.173077E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 288
+    [resourceId] => 14
+    [hash] => 01:00:01
+    [partname] => Mega-FLAME
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 415
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 488
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 120
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 120
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 15
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.09680682
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 0.00010625
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 289
+    [resourceId] => 14
+    [hash] => 01:01:00
+    [partname] => FLAME-Ext
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 415
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 450
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 121
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 429
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.09680682
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 2.972029E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 290
+    [resourceId] => 14
+    [hash] => 01:01:01
+    [partname] => FLAME
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Flamer
+    [hitpoints] => 415
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 35
+    [heatgen] => 15
+    [cooling] => 0
+    [weight] => 375
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 122
+            [range] => 45
+            [lifetime] => 0.5
+            [firerate] => 0.45
+            [burstfirerate] => 0.25
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 330
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 200
+            [spreadX] => 3
+            [spreadY] => 3
+            [kickforce] => 1
+            [impactHeat] => 10
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.09680682
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 3.863636E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => High high impact will lingering fire effects on the target
+    [heatThreshold] => 190
+)
+Array
+(
+    [ID] => 291
+    [resourceId] => 46
+    [hash] =>
+    [partname] => MineLayer
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Mine
+    [hitpoints] => 346
+    [armor] => 10
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 562
+    [cost] => 5000
+    [statsID] => Array
+        (
+            [ID] => 123
+            [range] => 50
+            [lifetime] => 15
+            [firerate] => 10
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 24
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 4
+            [reloadtime] => 5
+            [initialspeed] => 15
+            [spreadX] => 60
+            [spreadY] => 10
+            [kickforce] => 0
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.0694704
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 0.01180556
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => TerraTech
+    [description] => High explosive mine triggered by movement nearby
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 292
+    [resourceId] => 90
+    [hash] =>
+    [partname] => FLAME Mine Layer
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Mine
+    [hitpoints] => 266
+    [armor] => 10
+    [energygen] => 0
+    [energyuse] => 75
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 562
+    [cost] => 5000
+    [statsID] => Array
+        (
+            [ID] => 124
+            [range] => 50
+            [lifetime] => 15
+            [firerate] => 13
+            [burstfirerate] => 0.1
+            [force] => 1
+            [damage] => 0
+            [bulletsperclip] => 48
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 8
+            [reloadtime] => 5
+            [initialspeed] => 15
+            [spreadX] => 60
+            [spreadY] => 10
+            [kickforce] => 0
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0.05700934
+    [scoutRating] => 0
+    [commanderRating] => 0
+    [sniperRating] => 0.005902778
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => TerraTech
+    [description] => Originally designed for clearing ice, these mine explode in a fiery heat
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 293
+    [resourceId] => 48
+    [hash] =>
+    [partname] => Heavy Rocket
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Rocket
+    [hitpoints] => 643
+    [armor] => 35
+    [energygen] => 0
+    [energyuse] => 135
+    [heatgen] => 3
+    [cooling] => 0
+    [weight] => 1730
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 125
+            [range] => 950
+            [lifetime] => 150
+            [firerate] => 10
+            [burstfirerate] => 0.3
+            [force] => 50
+            [damage] => 60
+            [bulletsperclip] => 70
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 7
+            [reloadtime] => 5
+            [initialspeed] => 15
+            [spreadX] => 1
+            [spreadY] => 1
+            [kickforce] => 5
+            [impactHeat] => 0
+            [blastArea] => 20
+        )
+
+    [attackRating] => 0.05690027
+    [defenseRating] => 0.1546729
+    [scoutRating] => 0.008438511
+    [commanderRating] => 0.05625674
+    [sniperRating] => 0.0001831065
+    [supportRating] => 0.08073547
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Heavy rockets with large impact zone but limited ammo
+    [heatThreshold] => 50
+)
+Array
+(
+    [ID] => 294
+    [resourceId] => 49
+    [hash] =>
+    [partname] => Multi Rocket
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Rocket
+    [hitpoints] => 346
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 135
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1972
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 126
+            [range] => 850
+            [lifetime] => 90
+            [firerate] => 0.1
+            [burstfirerate] => 0.05
+            [force] => 5
+            [damage] => 22
+            [bulletsperclip] => 552
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 9
+            [initialspeed] => 90
+            [spreadX] => 5
+            [spreadY] => 2
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 15
+        )
+
+    [attackRating] => 0.2614731
+    [defenseRating] => 0.07725857
+    [scoutRating] => 0.03877737
+    [commanderRating] => 0.2585158
+    [sniperRating] => 2.726828E-5
+    [supportRating] => 0.1527783
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Massive launching of smaller rockets to cover large areas
+    [heatThreshold] => 35
+)
+Array
+(
+    [ID] => 295
+    [resourceId] => 50
+    [hash] =>
+    [partname] => Screamer Rocket
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Rocket
+    [hitpoints] => 416
+    [armor] => 15
+    [energygen] => 0
+    [energyuse] => 135
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 936
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 127
+            [range] => 400
+            [lifetime] => 90
+            [firerate] => 1.2
+            [burstfirerate] => 0.1
+            [force] => 25
+            [damage] => 38
+            [bulletsperclip] => 90
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 12
+            [initialspeed] => 125
+            [spreadX] => 0.25
+            [spreadY] => 0.25
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 5
+        )
+
+    [attackRating] => 0.07929351
+    [defenseRating] => 0.088162
+    [scoutRating] => 0.0117595
+    [commanderRating] => 0.07839669
+    [sniperRating] => 0.0002098765
+    [supportRating] => 0.01497134
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Double stage rocket with penetrating tip
+    [heatThreshold] => 65
+)
+Array
+(
+    [ID] => 296
+    [resourceId] => 51
+    [hash] =>
+    [partname] => Ivan
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Howitzer
+    [hitpoints] => 964
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 165
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 2135
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 128
+            [range] => 1750
+            [lifetime] => 150
+            [firerate] => 10
+            [burstfirerate] => 0.5
+            [force] => 350
+            [damage] => 105
+            [bulletsperclip] => 128
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 2
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 1
+            [spreadY] => 1
+            [kickforce] => 750
+            [impactHeat] => 0
+            [blastArea] => 45
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0
+    [scoutRating] => 0.00170944
+    [commanderRating] => 0.02279254
+    [sniperRating] => 8.421085E-5
+    [supportRating] => 0.8036907
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Double shot with significant recoil but large impact zone
+    [heatThreshold] => 200
+)
+Array
+(
+    [ID] => 297
+    [resourceId] => 52
+    [hash] =>
+    [partname] => HWZ-XXL
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Howitzer
+    [hitpoints] => 758
+    [armor] => 35
+    [energygen] => 0
+    [energyuse] => 190
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 2782
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 129
+            [range] => 1600
+            [lifetime] => 150
+            [firerate] => 3
+            [burstfirerate] => 0.1
+            [force] => 350
+            [damage] => 65
+            [bulletsperclip] => 224
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 2
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 3
+            [spreadY] => 2
+            [kickforce] => 450
+            [impactHeat] => 0
+            [blastArea] => 30
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0
+    [scoutRating] => 0.002707058
+    [commanderRating] => 0.03609411
+    [sniperRating] => 6.528418E-5
+    [supportRating] => 0.5700084
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Fast firing double shot with large ammo capacity
+    [heatThreshold] => 200
+)
+Array
+(
+    [ID] => 298
+    [resourceId] => 70
+    [hash] =>
+    [partname] => Railgun
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Railgun
+    [hitpoints] => 346
+    [armor] => 5
+    [energygen] => 0
+    [energyuse] => 279
+    [heatgen] => 40
+    [cooling] => 0
+    [weight] => 1582
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 130
+            [range] => 3000
+            [lifetime] => 15
+            [firerate] => 12
+            [burstfirerate] => 0.15
+            [force] => 900
+            [damage] => 325
+            [bulletsperclip] => 17
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 9
+            [initialspeed] => 1200
+            [spreadX] => 0.05
+            [spreadY] => 0.05
+            [kickforce] => 700
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.02006212
+    [defenseRating] => 0.006168224
+    [scoutRating] => 0.002975282
+    [commanderRating] => 0
+    [sniperRating] => 1
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FuseCorp
+    [description] => Experimental weapon with extreme range but limit ammo
+    [heatThreshold] => 150
+)
+Array
+(
+    [ID] => 299
+    [resourceId] => 71
+    [hash] =>
+    [partname] => Centurion
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Howitzer
+    [hitpoints] => 664
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 185
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1875
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 131
+            [range] => 1100
+            [lifetime] => 150
+            [firerate] => 12
+            [burstfirerate] => 0.5
+            [force] => 350
+            [damage] => 160
+            [bulletsperclip] => 35
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 1
+            [spreadY] => 1
+            [kickforce] => 650
+            [impactHeat] => 0
+            [blastArea] => 45
+        )
+
+    [attackRating] => 0
+    [defenseRating] => 0
+    [scoutRating] => 0.001235862
+    [commanderRating] => 0.01647816
+    [sniperRating] => 0.0001935818
+    [supportRating] => 0.3544916
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Heavy firepower with large explosion radius
+    [heatThreshold] => 200
+)
+Array
+(
+    [ID] => 300
+    [resourceId] => 115
+    [hash] =>
+    [partname] => L-2M32T SAW
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Mining Saw
+    [hitpoints] => 2946
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 185
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1875
+    [cost] => 5000
+    [statsID] => Array
+        (
+            [ID] => 132
+            [range] => 5
+            [lifetime] => 1
+            [firerate] => 0.25
+            [burstfirerate] => 0.5
+            [force] => -600
+            [damage] => 100
+            [bulletsperclip] => 400
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 0
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 25
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 1
+    [defenseRating] => 0.4978193
+    [scoutRating] => 0.7415175
+    [commanderRating] => 0.494345
+    [sniperRating] => 7.083334E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => JovianAppliedMining
+    [description] => Large mining saw with extending reach
+    [heatThreshold] => 90
+)
+Array
+(
+    [ID] => 301
+    [resourceId] => 116
+    [hash] =>
+    [partname] => R-2M32T SAW
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Mining Saw
+    [hitpoints] => 2946
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 185
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 1875
+    [cost] => 5000
+    [statsID] => Array
+        (
+            [ID] => 133
+            [range] => 5
+            [lifetime] => 1
+            [firerate] => 0.25
+            [burstfirerate] => 0.5
+            [force] => -600
+            [damage] => 100
+            [bulletsperclip] => 400
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 0
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 25
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 1
+    [defenseRating] => 0.4978193
+    [scoutRating] => 0.7415175
+    [commanderRating] => 0.494345
+    [sniperRating] => 7.083334E-5
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => JovianAppliedMining
+    [description] => Large mining saw with extending reach
+    [heatThreshold] => 90
+)
+Array
+(
+    [ID] => 302
+    [resourceId] => 56
+    [hash] =>
+    [partname] => Vlad HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Spikes
+    [hitpoints] => 786
+    [armor] => 80
+    [energygen] => 0
+    [energyuse] => 124
+    [heatgen] => 0
+    [cooling] => 10
+    [weight] => 932
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 134
+            [range] => 5
+            [lifetime] => 0.5
+            [firerate] => 12
+            [burstfirerate] => 0.1
+            [force] => 1200
+            [damage] => 474
+            [bulletsperclip] => 24
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 12
+            [initialspeed] => 1
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 150
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.3476645
+    [defenseRating] => 0.01235203
+    [scoutRating] => 0.2209709
+    [commanderRating] => 0.09820928
+    [sniperRating] => 0
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Heavy spikes for devestating close combat
+    [heatThreshold] => 485
+)
+Array
+(
+    [ID] => 303
+    [resourceId] => 67
+    [hash] =>
+    [partname] => Vlad
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Spikes
+    [hitpoints] => 636
+    [armor] => 50
+    [energygen] => 0
+    [energyuse] => 183
+    [heatgen] => 0
+    [cooling] => 50
+    [weight] => 672
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 135
+            [range] => 5
+            [lifetime] => 0.5
+            [firerate] => 12
+            [burstfirerate] => 0.1
+            [force] => 250
+            [damage] => 115
+            [bulletsperclip] => 80
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 4
+            [reloadtime] => 12
+            [initialspeed] => 1
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 20
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.467936
+    [defenseRating] => 0.008847351
+    [scoutRating] => 0.2974138
+    [commanderRating] => 0.1321839
+    [sniperRating] => 0
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Heavy spikes for devestating close combat
+    [heatThreshold] => 450
+)
+Array
+(
+    [ID] => 304
+    [resourceId] => 68
+    [hash] =>
+    [partname] => Vlad 160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Spikes
+    [hitpoints] => 676
+    [armor] => 50
+    [energygen] => 0
+    [energyuse] => 178
+    [heatgen] => 0
+    [cooling] => 35
+    [weight] => 792
+    [cost] => 3500
+    [statsID] => Array
+        (
+            [ID] => 136
+            [range] => 5
+            [lifetime] => 0.5
+            [firerate] => 6
+            [burstfirerate] => 0.1
+            [force] => 600
+            [damage] => 115
+            [bulletsperclip] => 44
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 1
+            [spreadX] => 0
+            [spreadY] => 0
+            [kickforce] => 20
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1985183
+    [defenseRating] => 0.009158879
+    [scoutRating] => 0.1261755
+    [commanderRating] => 0.05607803
+    [sniperRating] => 0
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Heavy spikes for devestating close combat
+    [heatThreshold] => 350
+)
+Array
+(
+    [ID] => 305
+    [resourceId] => 63
+    [hash] =>
+    [partname] => Concusion Rocket
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Rocket
+    [hitpoints] => 346
+    [armor] => 5
+    [energygen] => 0
+    [energyuse] => 64
+    [heatgen] => 1
+    [cooling] => 0
+    [weight] => 482
+    [cost] => 5000
+    [statsID] => Array
+        (
+            [ID] => 137
+            [range] => 425
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.15
+            [force] => 600
+            [damage] => 10
+            [bulletsperclip] => 240
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 15
+            [reloadtime] => 9
+            [initialspeed] => 95
+            [spreadX] => 1
+            [spreadY] => 1
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1215637
+    [defenseRating] => 0.06168224
+    [scoutRating] => 0.01802833
+    [commanderRating] => 0.1201889
+    [sniperRating] => 3.135852E-5
+    [supportRating] => 0.03321521
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => Small rockets that have high impact on enemy aiming
+    [heatThreshold] => 135
+)
+Array
+(
+    [ID] => 306
+    [resourceId] => 117
+    [hash] =>
+    [partname] => GL40MMHE 'Thunder'
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Grenade
+    [hitpoints] => 584
+    [armor] => 50
+    [energygen] => 0
+    [energyuse] => 45
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 583
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 138
+            [range] => 90
+            [lifetime] => 15
+            [firerate] => 3
+            [burstfirerate] => 0.1
+            [force] => 50
+            [damage] => 162
+            [bulletsperclip] => 28
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 0.5
+            [spreadY] => 0.5
+            [kickforce] => 20
+            [impactHeat] => 0
+            [blastArea] => 5
+        )
+
+    [attackRating] => 0.4341766
+    [defenseRating] => 0.1688474
+    [scoutRating] => 0.3219495
+    [commanderRating] => 0.214633
+    [sniperRating] => 0.003035715
+    [supportRating] => 0.01813022
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Small high explosive projectile that can be arced for longer shots
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 307
+    [resourceId] => 118
+    [hash] =>
+    [partname] => GL40MM MULTI
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Grenade
+    [hitpoints] => 684
+    [armor] => 35
+    [energygen] => 0
+    [energyuse] => 45
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 787
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 139
+            [range] => 90
+            [lifetime] => 15
+            [firerate] => 6
+            [burstfirerate] => 0.15
+            [force] => 35
+            [damage] => 86
+            [bulletsperclip] => 60
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 3
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 0.25
+            [spreadY] => 0.25
+            [kickforce] => 10
+            [impactHeat] => 0
+            [blastArea] => 5
+        )
+
+    [attackRating] => 0.2561149
+    [defenseRating] => 0.1610592
+    [scoutRating] => 0.1899137
+    [commanderRating] => 0.1266091
+    [sniperRating] => 0.001416667
+    [supportRating] => 0.0205758
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Small high explosive projectile that can be arced for longer shots
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 308
+    [resourceId] => 119
+    [hash] =>
+    [partname] => GL40MM
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Grenade
+    [hitpoints] => 554
+    [armor] => 35
+    [energygen] => 0
+    [energyuse] => 45
+    [heatgen] => 0
+    [cooling] => 0
+    [weight] => 468
+    [cost] => 1500
+    [statsID] => Array
+        (
+            [ID] => 140
+            [range] => 90
+            [lifetime] => 15
+            [firerate] => 2.5
+            [burstfirerate] => 0.1
+            [force] => 50
+            [damage] => 137
+            [bulletsperclip] => 38
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 10
+            [impactHeat] => 0
+            [blastArea] => 5
+        )
+
+    [attackRating] => 0.5488781
+    [defenseRating] => 0.14081
+    [scoutRating] => 0.4070027
+    [commanderRating] => 0.2713351
+    [sniperRating] => 0.002236842
+    [supportRating] => 0.02075608
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => FrontierManufacturing
+    [description] => Small high explosive projectile that can be arced for longer shots
+    [heatThreshold] => 100
+)
+Array
+(
+    [ID] => 309
+    [resourceId] => 130
+    [hash] =>
+    [partname] => CHAGN-3
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Heavy Machine Gun
+    [hitpoints] => 662
+    [armor] => 0
+    [energygen] => 0
+    [energyuse] => 398
+    [heatgen] => 45
+    [cooling] => 0
+    [weight] => 1712
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 141
+            [range] => 382
+            [lifetime] => 10
+            [firerate] => 0.025
+            [burstfirerate] => 0.1
+            [force] => 0
+            [damage] => 8
+            [bulletsperclip] => 2600
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 12
+            [initialspeed] => 400
+            [spreadX] => 0.75
+            [spreadY] => 0.75
+            [kickforce] => 2
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.876168
+    [defenseRating] => 0.1031152
+    [scoutRating] => 0.6496939
+    [commanderRating] => 0.4331293
+    [sniperRating] => 0.0008325642
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => MobiTech
+    [description] => Rotating barrels allow faster firing speeds
+    [heatThreshold] => 200
+)
+Array
+(
+    [ID] => 310
+    [resourceId] => 131
+    [hash] =>
+    [partname] => BTR-Vixen-HD
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rifle
+    [hitpoints] => 738
+    [armor] => 40
+    [energygen] => 0
+    [energyuse] => 37
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 942
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 142
+            [range] => 745
+            [lifetime] => 10
+            [firerate] => 3
+            [burstfirerate] => 0.1
+            [force] => 300
+            [damage] => 84
+            [bulletsperclip] => 82
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.15
+            [spreadY] => 0.15
+            [kickforce] => 15
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.1393312
+    [defenseRating] => 0.1772586
+    [scoutRating] => 0.1033165
+    [commanderRating] => 0.06887769
+    [sniperRating] => 0.05148374
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => SilverSide
+    [description] => Single shot with long range and decent damage. Works great with sniper roles.
+    [heatThreshold] => 167
+)
+Array
+(
+    [ID] => 311
+    [resourceId] => 132
+    [hash] =>
+    [partname] => BTR-Vixen-160
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rifle
+    [hitpoints] => 593
+    [armor] => 35
+    [energygen] => 0
+    [energyuse] => 37
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 848
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 143
+            [range] => 490
+            [lifetime] => 10
+            [firerate] => 1.25
+            [burstfirerate] => 0.1
+            [force] => 75
+            [damage] => 53
+            [bulletsperclip] => 265
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.3
+            [spreadY] => 0.3
+            [kickforce] => 15
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2343749
+    [defenseRating] => 0.1468848
+    [scoutRating] => 0.1737931
+    [commanderRating] => 0.1158621
+    [sniperRating] => 0.01047799
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => SilverSide
+    [description] => Single shot with long range and decent damage. Works great with sniper roles.
+    [heatThreshold] => 200
+)
+Array
+(
+    [ID] => 312
+    [resourceId] => 133
+    [hash] =>
+    [partname] => BTR-Vixen-Stub
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rifle
+    [hitpoints] => 558
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 37
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 568
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 144
+            [range] => 775
+            [lifetime] => 10
+            [firerate] => 2
+            [burstfirerate] => 0.1
+            [force] => 150
+            [damage] => 68
+            [bulletsperclip] => 60
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 700
+            [spreadX] => 0.2
+            [spreadY] => 0.2
+            [kickforce] => 15
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2805897
+    [defenseRating] => 0.1258567
+    [scoutRating] => 0.2080622
+    [commanderRating] => 0.1387081
+    [sniperRating] => 0.07319447
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => SilverSide
+    [description] => Single shot with long range and decent damage. Works great with sniper roles.
+    [heatThreshold] => 125
+)
+Array
+(
+    [ID] => 313
+    [resourceId] => 134
+    [hash] =>
+    [partname] => BTR-Vixen-X
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rifle
+    [hitpoints] => 658
+    [armor] => 25
+    [energygen] => 0
+    [energyuse] => 37
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 768
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 145
+            [range] => 775
+            [lifetime] => 10
+            [firerate] => 2
+            [burstfirerate] => 0.1
+            [force] => 150
+            [damage] => 68
+            [bulletsperclip] => 125
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 700
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 15
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.2075195
+    [defenseRating] => 0.141433
+    [scoutRating] => 0.1538793
+    [commanderRating] => 0.1025862
+    [sniperRating] => 0.03513334
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => SilverSide
+    [description] => Single shot with long range and decent damage. Works great with sniper roles.
+    [heatThreshold] => 125
+)
+Array
+(
+    [ID] => 314
+    [resourceId] => 135
+    [hash] =>
+    [partname] => BTR-Vixen-Z
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rifle
+    [hitpoints] => 514
+    [armor] => 45
+    [energygen] => 0
+    [energyuse] => 37
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 768
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 146
+            [range] => 825
+            [lifetime] => 10
+            [firerate] => 2
+            [burstfirerate] => 0.1
+            [force] => 150
+            [damage] => 70
+            [bulletsperclip] => 148
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 600
+            [spreadX] => 0.1
+            [spreadY] => 0.1
+            [kickforce] => 15
+            [impactHeat] => 2
+            [blastArea] =>
+        )
+
+    [attackRating] => 0.213623
+    [defenseRating] => 0.1501558
+    [scoutRating] => 0.1584052
+    [commanderRating] => 0.1056035
+    [sniperRating] => 0.03158784
+    [supportRating] => 0
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => SilverSide
+    [description] => Single shot with long range and decent damage. Works great with sniper roles.
+    [heatThreshold] => 125
+)
+Array
+(
+    [ID] => 315
+    [resourceId] => 147
+    [hash] =>
+    [partname] => Gustaf - X2
+    [baserank] => 0
+    [parttype] => Weapon
+    [subType] => Rocket
+    [hitpoints] => 385
+    [armor] => 65
+    [energygen] => 0
+    [energyuse] => 62
+    [heatgen] => 5
+    [cooling] => 0
+    [weight] => 628
+    [cost] => 10000
+    [statsID] => Array
+        (
+            [ID] => 147
+            [range] => 530
+            [lifetime] => 90
+            [firerate] => 1.75
+            [burstfirerate] => 0.1
+            [force] => 150
+            [damage] => 49
+            [bulletsperclip] => 72
+            [clips] => 0
+            [shotsperfire] => 1
+            [burstfire] => 1
+            [reloadtime] => 5
+            [initialspeed] => 75
+            [spreadX] => 0.3
+            [spreadY] => 0.3
+            [kickforce] => 1
+            [impactHeat] => 0
+            [blastArea] => 2
+        )
+
+    [attackRating] => 0.05224919
+    [defenseRating] => 0.1612149
+    [scoutRating] => 0.01549747
+    [commanderRating] => 0.1033165
+    [sniperRating] => 0.0006952161
+    [supportRating] => 0.006997809
+    [canRotate] => 1
+    [isLeaf] => 0
+    [unlock] =>
+    [manufacturer] => WilsonMunitions
+    [description] => Single shot with decent damage. Does splash and direct damage
+    [heatThreshold] => 114
+)
