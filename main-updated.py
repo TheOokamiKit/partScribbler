@@ -9,6 +9,9 @@ def main():
     # imports regular expression to assist in formatting prep
     import re
 
+    # imorts
+    import pprint
+
     # check to make sure program is passed a target file
     if len(sys.argv) != 2:
         raise Exception("Usage: python3 main.py <path_to_file>")
@@ -20,23 +23,28 @@ def main():
             file_contents = f.read()
             return str(file_contents)
 
-    raw_data = file_to_string(sys.argv[1])
+    # takes file and converts to string using provided file path when running program
+    file_as_string = file_to_string(sys.argv[1])
+
+    # takes previously imported string and replaces the [ID] tag in the sub array with a new non duplicated name to prevent issues in output when filtering to only desired fields
+    raw_data = file_as_string.replace("""[statsID] => Array
+        (
+            [ID]""","""[statsID] => Array
+        (
+            [subID]""")
+
 
     # split arrays into entries
     def convert_php_to_python(php):
         entries = re.split(r'Array\s*\(', php)
         parsed = []
 
+        #skipping first entery since it will be blank due to the first found split instance being at the begining
         for entry in entries[1:]:
             obj = {}
-            stats = {}
-            current = obj
             lines = entry.strip().splitlines()
             for line in lines:
                 line = line.strip()
-                if 'statsID' in line and 'Array' in line:
-                    current = stats
-                    continue
                 match = re.match(r'\[([^\]]+)\] => (.+)', line)
                 if match:
                     key, value = match.groups()
@@ -47,10 +55,8 @@ def main():
                             value = float(value)
                         except ValueError:
                             value = value.strip()
-                    current[key] = value
-            obj['statsID'] = stats
+                    obj[key] = value
             parsed.append(obj)
-
         return parsed
 
     # list of stats to include in csv file. all others will be ignored
@@ -63,7 +69,7 @@ def main():
 
     # write to file
     current_type = "weapon"
-    filename = f"(current_type).csv"
+    filename = current_type + ".csv"
     def write_csv(converted_data):
         top_level_fields = {"partname","subType","ID", "hitpoints", "armor", "energyuse", "heatgen", "cooling", "weight"}
         with open(filename, 'w', newline='') as f:
@@ -73,14 +79,24 @@ def main():
                 row = {}
                 stats = item.get('statsID', {})
                 for k in fields:
-                    if k in top_level_fields:
-                        row[k] = item.get(k, '')
-                    else:
-                        row[k] = stats.get(k, '')
+                    row[k] = item.get(k, '')
                 writer.writerow(row)
 
+    def write_python_data(parsed_data, filename='raw_data.py'):
+        with open(filename, 'w') as f:
+            f.write("# Auto-generated parsed data\n")
+            f.write("data = ")
+            pprint.pprint(parsed_data, stream=f, width=120)
+
+
     ready_to_write_data = convert_php_to_python(raw_data)
+
+
     write_csv(ready_to_write_data)
     print(f"CSV file written as '(filename)")
+
+
+    write_python_data(ready_to_write_data)
+    print("raw data converted to python and written as 'raw_data.py'")
 
 main()
