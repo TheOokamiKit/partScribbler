@@ -2,7 +2,7 @@
 A tool to process MAV part data to a usable spreadsheet format
 
 To use:
-Run in the python script in terminal/command line with the path to the part data in php format as the second argument
+Run the python script in terminal/command line with the path to the part data in php format as the second argument.
 
 IE: python3 main-updated.py parts_0_8_4_7.txt
 
