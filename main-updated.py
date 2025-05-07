@@ -9,7 +9,7 @@ def main():
     # imports regular expression to assist in formatting prep
     import re
 
-    # imorts
+    # imorts python print to export files to assit in debugging
     import pprint
 
     # check to make sure program is passed a target file
@@ -77,7 +77,6 @@ def main():
     current_type = "weapon"
     filename = current_type + ".csv"
     def write_csv(converted_data):
-        top_level_fields = {"partname","subType","ID", "hitpoints", "armor", "energyuse", "heatgen", "cooling", "weight"}
         with open(filename, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=fields)
             writer.writeheader()
