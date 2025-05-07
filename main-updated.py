@@ -26,13 +26,19 @@ def main():
     # takes file and converts to string using provided file path when running program
     file_as_string = file_to_string(sys.argv[1])
 
-    # takes previously imported string and replaces the [ID] tag in the sub array with a new non duplicated name to prevent issues in output when filtering to only desired fields
+    # takes previously imported string and replaces the [ID] tag in the sub array with a new non duplicated name to prevent issues in output when filtering to only desired fields. Also removes the leading "(" of the sub array
     raw_data = file_as_string.replace("""[statsID] => Array
         (
             [ID]""","""[statsID] => Array
-        (
             [subID]""")
 
+    # removes the ")" leftover from the sub array as well as the blank line below
+    raw_data = raw_data.replace("""        )
+
+    [""","""    [""")
+
+    # un-indents the [subID] arrays
+    raw_data = raw_data.replace("            ","    ")
 
     # split arrays into entries
     def convert_php_to_python(php):
