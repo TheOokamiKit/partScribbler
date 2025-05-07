@@ -40,10 +40,12 @@ def main():
     # un-indents the [subID] arrays
     raw_data = raw_data.replace("            ","    ")
 
+    #holding variable for data once converted. Seperated to prevent reconverting data each time
+    ready_to_write_data = []
+
     # split arrays into entries
     def convert_php_to_python(php):
         entries = re.split(r'Array\s*\(', php)
-        parsed = []
 
         #skipping first entery since it will be blank due to the first found split instance being at the begining
         for entry in entries[1:]:
@@ -62,8 +64,8 @@ def main():
                         except ValueError:
                             value = value.strip()
                     obj[key] = value
-            parsed.append(obj)
-        return parsed
+            ready_to_write_data.append(obj)
+        return
 
     # list of stats to include in csv file. all others will be ignored
     fields = [
@@ -94,8 +96,8 @@ def main():
             pprint.pprint(parsed_data, stream=f, width=120)
 
 
-    ready_to_write_data = convert_php_to_python(raw_data)
 
+    convert_php_to_python(raw_data)
 
     write_csv(ready_to_write_data)
     print(f"CSV file written as '(filename)")
