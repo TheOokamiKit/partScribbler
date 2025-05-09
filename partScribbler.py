@@ -40,8 +40,19 @@ def main():
     # un-indents the [subID] arrays
     raw_data = raw_data.replace("            ","    ")
 
-    #holding variable for data once converted. Seperated to prevent reconverting data each time
+    # holding variable for data once converted. Seperated to prevent reconverting data each time
     ready_to_write_data = []
+
+    # sorted lists by part type
+    Cockpit = []
+    Mobility = []
+    Weapon = []
+    Armor = []
+    Generator = []
+    Aux = []
+    Spacer = []
+    Other = []
+
 
     # split arrays into entries
     def convert_php_to_python(php):
@@ -67,43 +78,113 @@ def main():
             ready_to_write_data.append(obj)
         return
 
-    # list of stats to include in csv file. all others will be ignored
-    fields = [
-        "partname","subType","ID", "hitpoints", "armor", "energyuse", "heatgen", "cooling", "weight",
-        "range", "lifetime", "firerate", "burstfirerate", "force", "damage",
-        "bulletsperclip", "shotsperfire", "burstfire", "reloadtime",
-        "initialspeed", "spreadX", "spreadY", "kickforce"
-    ]
+    # sort directory of parts into catigories
+    def sort_parts(list_of_parts):
+        for part in list_of_parts:
+            if part["parttype"] == 'Cockpit':
+                Cockpit.append(part)
+            elif part["parttype"] == 'Mobility':
+                Mobility.append(part)
+            elif part["parttype"] == 'Weapon':
+                Weapon.append(part)
+            elif part["parttype"] == 'Armor':
+                Armor.append(part)
+            elif part["parttype"] == 'Generator':
+                Generator.append(part)
+            elif part["parttype"] == 'Aux':
+                Aux.append(part)
+            elif part["parttype"] == 'Spacer':
+                Spacer.append(part)
+            else:
+                Other.append(part)
 
-    # write to file
-    current_type = "weapon"
-    filename = current_type + ".csv"
-    def write_csv(converted_data):
+    # list of stats to include in csv file. all others will be ignored
+
+    fields_Cockpit = [
+        "partname","subType","ID","weight","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "weapongroups","weaponspergroup","aimstability","firedelay","cost","manufacturer","description","unlock"
+        ]
+
+    fields_Mobility = [
+        "partname","subType","ID","weight","load","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "forwardspeed","reversespeed","stability","shockabsorb","acceletration","deacceleration","braking","turning","rotationspeed",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    fields_Weapon = [
+        "partname","subType","ID","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold","weight",
+        "range","lifetime","firerate","burstfirerate","force","damage","bulletsperclip","shotsperfire","burstfire","reloadtime",
+        "initialspeed","spreadX","spreadY","kickforce","impactHeat","blastArea","heatThreshold",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    fields_Armor = [
+        "partname","subType","ID","weight","hitpoints","armor","heatThreshold","cooling","heatgen","energygen","energyuse",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    fields_Generator = [
+        "partname","subType","ID","weight","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    fields_Aux = [
+        "partname","subType","ID","weight","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    fields_Spacer = [
+        "partname","subType","ID","weight","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "cost","manufacturer","description","unlock"
+        ]
+
+    # function to write to file
+
+    def write_csv(sorted_data,part_type,fields_to_write):
+        filename = part_type + ".csv"
         with open(filename, 'w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=fields)
+            writer = csv.DictWriter(f, fieldnames=fields_to_write)
             writer.writeheader()
-            for item in converted_data:
+            for item in sorted_data:
                 row = {}
                 stats = item.get('statsID', {})
-                for k in fields:
+                for k in fields_to_write:
                     row[k] = item.get(k, '')
                 writer.writerow(row)
 
-    def write_python_data(parsed_data, filename='raw_data.py'):
+    def write_python_data(sorted_data,part_type):
+        filename = part_type + '.py'
         with open(filename, 'w') as f:
             f.write("# Auto-generated parsed data\n")
             f.write("data = ")
-            pprint.pprint(parsed_data, stream=f, width=120)
+            pprint.pprint(sorted_data, stream=f, width=120)
 
 
-
+    # call to convert data and store it in ready_to_write_data directory
     convert_php_to_python(raw_data)
 
-    write_csv(ready_to_write_data)
-    print(f"CSV file written as '(filename)")
+    # call to sort ready_to_write_data and store sorted data in directories by part type
+    sort_parts(ready_to_write_data)
+
+    # call to write to csv file for each part type
+    write_csv(Cockpit,"Cockpit",fields_Cockpit)
+    write_csv(Mobility,"Mobility",fields_Mobility)
+    write_csv(Weapon,"Weapon",fields_Weapon)
+    write_csv(Armor,"Armor",fields_Armor)
+    write_csv(Generator,"Generator",fields_Generator)
+    write_csv(Aux,"Aux",fields_Aux)
+    write_csv(Spacer,"Spacer",fields_Spacer)
+
+    # call to write any new/uncaught part types to a python file for inspection
+    write_python_data(Other,"Other")
 
 
-    write_python_data(ready_to_write_data)
-    print("raw data converted to python and written as 'raw_data.py'")
+    # old write funtion call for CSV
+    #write_csv(ready_to_write_data)
+    #print(f"CSV file written as '(filename)")
+
+    # old write funtion call for python data
+    #write_python_data(ready_to_write_data)
+    #print("raw data converted to python and written as 'raw_data.py'")
 
 main()
