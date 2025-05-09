@@ -107,14 +107,14 @@ def main():
 
     fields_Mobility = [
         "partname","subType","ID","weight","load","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
-        "forwardspeed","reversespeed","stability","shockabsorb","acceletration","deacceleration","braking","turning","rotationspeed",
+        "forwardspeed","reversespeed","stability","shockabsorb","acceleraction","deacceleration","braking","turning","rotationspeed",
         "cost","manufacturer","description","unlock"
         ]
 
     fields_Weapon = [
         "partname","subType","ID","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold","weight",
         "range","lifetime","firerate","burstfirerate","force","damage","bulletsperclip","shotsperfire","burstfire","reloadtime",
-        "initialspeed","spreadX","spreadY","kickforce","impactHeat","blastArea","heatThreshold",
+        "initialspeed","spreadX","spreadY","kickforce","impactHeat","blastArea",
         "cost","manufacturer","description","unlock"
         ]
 
