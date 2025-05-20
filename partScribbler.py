@@ -1,4 +1,4 @@
-def main():
+def partScribbler():
 
     # imports sys to allow for interaction with files and arguments from the command line
     import sys
@@ -78,14 +78,23 @@ def main():
             ready_to_write_data.append(obj)
         return
 
-    # sort directory of parts into catigories
+    # sort directory of parts into catigories and calculate additional stats evaluations that are commonly used in the spreadsheet
     def sort_parts(list_of_parts):
         for part in list_of_parts:
             if part["parttype"] == 'Cockpit':
+                part["HP_Weight"] = part["hitpoints"] / part["weight"]
+                part["NetEnergy"] = part["energygen"] - part["energyuse"]
+                part["Cooling_Weight"] = part["cooling"] / part["weight"]
+                part["HeatCapacity"] = part["heatThreshold"] - part["heatgen"] + part["cooling"]
+                part["TotalWeapons"] = part["weapongroups"] * part["weaponspergroup"]
                 Cockpit.append(part)
             elif part["parttype"] == 'Mobility':
+                part["HeatCapacity"] = part["heatThreshold"] - part["heatgen"] + part["cooling"]
+                part["MaxSpeed"] = part["forwardspeed"] * 4.1738
+                part["NetEnergy"] = part["energygen"] - part["energyuse"]
                 Mobility.append(part)
             elif part["parttype"] == 'Weapon':
+                #part.["DP_S"] - part["damage"]
                 Weapon.append(part)
             elif part["parttype"] == 'Armor':
                 Armor.append(part)
@@ -101,14 +110,14 @@ def main():
     # list of stats to include in csv file. all others will be ignored
 
     fields_Cockpit = [
-        "partname","subType","ID","weight","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
-        "weapongroups","weaponspergroup","aimstability","firedelay","cost","manufacturer","description","unlock"
+        "partname","subType","weight","HP_Weight","hitpoints","armor","energygen","energyuse","NetEnergy","heatgen","cooling","Cooling_Weight","heatThreshold","HeatCapacity",
+        "weapongroups","weaponspergroup","TotalWeapons","aimstability","firedelay","cost","manufacturer","description","unlock","ID"
         ]
 
     fields_Mobility = [
-        "partname","subType","ID","weight","load","hitpoints","armor","energygen","energyuse","heatgen","cooling","heatThreshold",
+        "partname","subType","load","hitpoints","armor","NetEnergy","energygen","energyuse","heatgen","HeatCapacity","cooling","heatThreshold","MaxSpeed",
         "forwardspeed","reversespeed","stability","shockabsorb","acceleraction","deacceleration","braking","turning","rotationspeed",
-        "cost","manufacturer","description","unlock"
+        "cost","manufacturer","description","unlock","ID"
         ]
 
     fields_Weapon = [
@@ -178,13 +187,4 @@ def main():
     # call to write any new/uncaught part types to a python file for inspection
     write_python_data(Other,"Other")
 
-
-    # old write funtion call for CSV
-    #write_csv(ready_to_write_data)
-    #print(f"CSV file written as '(filename)")
-
-    # old write funtion call for python data
-    #write_python_data(ready_to_write_data)
-    #print("raw data converted to python and written as 'raw_data.py'")
-
-main()
+partScribbler()
